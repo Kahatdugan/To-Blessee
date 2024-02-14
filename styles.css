@@ -51,19 +51,19 @@ h1,h2,h3,p{
     color: var(--secondary);
 }
 h1{
-    font-size: 1.2em;
+    font-size: 2.6em;
     font-family: 'Lora-Regular';
     font-weight: lighter;
     text-align: justify;
 }
 h2{
-    font-size: 1.2em;
+    font-size: 2.7em;
     font-family: 'Lora-Regular';
     font-weight: lighter;
     text-align: right;
 }
 h3{
-    font-size: 1.2em;
+    font-size: 2.6em;
     font-family: 'Montserrat-Regular';
     font-weight: bold;
     text-align: justify;
@@ -71,7 +71,7 @@ h3{
 
 .leading{
     padding-top: 50px;
-    font-size: 1.8em;
+    font-size: 2.2em;
     font-family: 'Montserrat-Regular';
     font-weight: bold;
 }
